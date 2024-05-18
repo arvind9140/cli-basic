@@ -1,0 +1,5 @@
+
+cmd:
+  info:
+    diskUsage:
+       defaultDirectory: "/Users/ArvindMaurya"
